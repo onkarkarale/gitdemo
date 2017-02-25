@@ -1,3 +1,7 @@
 hello this is git
 organize by zeal
+<<<<<<< HEAD
 dont worry
+=======
+take it 
+>>>>>>> 222c4c43c09dcb44d7bdc4420c8ae4c30086e248
